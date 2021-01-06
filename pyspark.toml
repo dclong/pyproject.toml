@@ -5,8 +5,8 @@ description = "pyspark related development"
 authors = ["Benjamin Du <longendu@yahoo.com>"]
 
 [tool.poetry.dependencies]
-python = ">=3.6"
-loguru = "^0.5.1"
+python = ">=3.7"
+loguru = ">=0.5.1"
 
 [tool.poetry.dev-dependencies]
 pyspark = ">=3.0.1"
